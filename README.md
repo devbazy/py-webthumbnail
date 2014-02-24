@@ -1,4 +1,4 @@
 py-webthumbnail
 ===============
 
-Python module for webthumbnail.org
+Python module for webthumbnail
